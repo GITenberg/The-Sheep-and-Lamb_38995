@@ -1,0 +1,34 @@
+_repo: The-Sheep-and-Lamb_38995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Thomas
+    birthdate: 1807
+    deathdate: 1874
+    gutenberg_agent_id: '39601'
+    url: http://www.gutenberg.org/2009/agents/39601
+description: ''
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Ducks -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Sheep -- Juvenile fiction'
+- !lcsh 'Benevolence -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Slaughtering and slaughter houses -- Juvenile fiction'
+title: The Sheep and Lamb
+url: http://www.gutenberg.org/ebooks/38995
